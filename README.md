@@ -1,9 +1,4 @@
-# VLM_note
-大模型学习笔记
-
-[TOC]
-
-
+# LearnVLM
 
 # Tips
 
@@ -56,7 +51,6 @@
      SEP='\n'),
    ```
 
-   
 
 # Code
 
@@ -82,6 +76,21 @@ decoded_text = tokenizer.decode(encoded_text)
 print("原始文本：", text)
 print("解码后的文本：", decoded_text)
 ```
+
+
+
+# LLM
+
+## 1. Base/Instruction/Chat区别
+
+[links](https://mp.weixin.qq.com/s?__biz=MjM5MTIyMjkzMg==&mid=2247484931&idx=1&sn=89c33bf597001b1a570334ac0a593047&chksm=a7ddbbc19ca4d634481205243b930e35fc4642ab78828f38701fbdca34c461620ae752edd83a&mpshare=1&scene=1&srcid=1216Hpzl8oaf3qURolG5uGo5&sharer_shareinfo=fd34882e000bbdced65bb176500b9e22&sharer_shareinfo_first=fd34882e000bbdced65bb176500b9e22#rd)
+大模型训练分为三阶段：预训练Pretrain、有监督微调SFT、人类反馈强化学习RLHF
+
+| 类型            | 经历阶段                     | 特点                                                         |
+| --------------- | ---------------------------- | ------------------------------------------------------------ |
+| Base模型        | Pretrain                     | 经过大规模数据的无监督学习，掌握基本的语言生成能力和背景知识，具备语言理解能力。 |
+| Instruction模型 | Pretrain + SFT + RLHF        | 经过监督微调和强化学习，理解和执行复杂的自然语言指令。       |
+| Chat模型        | Pretrain + SFT + RLHF + 微调 | 经过进一步微调，专注于对话的上下文理解能力和多轮交流连贯性。 |
 
 
 
