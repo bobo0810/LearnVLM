@@ -23,3 +23,10 @@
 | [PP-LLaVA](https://mp.weixin.qq.com/s?__biz=Mzk0NTY1Mjg5NQ==&mid=2247485864&idx=1&sn=a6c649d57be74f69dca7d73b42a66f76&chksm=c29e3f61678f50b017d29c3da365f28b9e803ef313866ce30286ecbd72936abb426e69f63d87&mpshare=1&scene=1&srcid=1115acs9Xde5vS9VAoPn69UH&sharer_shareinfo=7b82ae92bfe555621b3a2e8085b9003d&sharer_shareinfo_first=7b82ae92bfe555621b3a2e8085b9003d#rd) | 2024.10 | 同时应对短视频和长视频的理解                               | 腾讯 & 鹏城实验室 |
 | [InternVid](https://zhuanlan.zhihu.com/p/929138634?utm_medium=social&utm_psn=1828399568867450881&utm_source=wechat_session) | 2023.7  | 多模态视频理解与生成的大规模视频-文本数据集 ICLR Spotlight |                   |
 
+
+
+
+
+
+
+[LLM相关知识](https://github.com/wdndev/llm_interview_note?tab=readme-ov-file)
