@@ -1,5 +1,11 @@
 # LearnVLM
-# 图文理解
+# 基础知识
+
+基础知识
+
+# 最新工作
+
+## 图文理解
 
 |                                                              | 时间    | 说明                                                | 机构          |
 | ------------------------------------------------------------ | ------- | --------------------------------------------------- | ------------- |
@@ -16,17 +22,13 @@
 | [TextHawk2](https://mp.weixin.qq.com/s?__biz=Mzk0NTY1Mjg5NQ==&mid=2247485123&idx=1&sn=b7e3af063ed9ad1d9753c9538d4ef4e9&chksm=c2420368d85e7cd6851f440f51482e6189839f791a19ac1124385a48f0b00a38f1d3317de361&mpshare=1&scene=1&srcid=1017P48hwmr4JOw37w9jaLTa&sharer_shareinfo=1cb157531fbcd41b375452171db5e5a0&sharer_shareinfo_first=1cb157531fbcd41b375452171db5e5a0#rd) | 2024.10 | 压缩视觉token，不损害细粒度感知能力，适用文档理解。 | 华为          |
 | [LOVA3](https://mp.weixin.qq.com/s?__biz=Mzg5Nzk0MDg1MA==&mid=2247484938&idx=1&sn=06e36c14419bf07278ca09e7a11394f9&chksm=c170fc47ce84086bc7ef5356405150eca2fa224bb0df856d4ff3688ebf4291538640e4445532&mpshare=1&scene=1&srcid=1102dvNvd0VR9ERl96JVoePM&sharer_shareinfo=246d54b78fc3c697a506584389bb3da2&sharer_shareinfo_first=246d54b78fc3c697a506584389bb3da2#rd) | 2024.5  | 让MLLM学会提出问题并评估                            |               |
 
-# 视频理解
+## 视频理解
 
 |                                                              | 时间    | 说明                                                       | 机构              |
 | ------------------------------------------------------------ | ------- | ---------------------------------------------------------- | ----------------- |
 | [PP-LLaVA](https://mp.weixin.qq.com/s?__biz=Mzk0NTY1Mjg5NQ==&mid=2247485864&idx=1&sn=a6c649d57be74f69dca7d73b42a66f76&chksm=c29e3f61678f50b017d29c3da365f28b9e803ef313866ce30286ecbd72936abb426e69f63d87&mpshare=1&scene=1&srcid=1115acs9Xde5vS9VAoPn69UH&sharer_shareinfo=7b82ae92bfe555621b3a2e8085b9003d&sharer_shareinfo_first=7b82ae92bfe555621b3a2e8085b9003d#rd) | 2024.10 | 同时应对短视频和长视频的理解                               | 腾讯 & 鹏城实验室 |
 | [InternVid](https://zhuanlan.zhihu.com/p/929138634?utm_medium=social&utm_psn=1828399568867450881&utm_source=wechat_session) | 2023.7  | 多模态视频理解与生成的大规模视频-文本数据集 ICLR Spotlight |                   |
 
+## LLM
 
-
-
-
-
-
-[LLM相关知识](https://github.com/wdndev/llm_interview_note?tab=readme-ov-file)
+- [LLM相关知识](https://github.com/wdndev/llm_interview_note?tab=readme-ov-file)
