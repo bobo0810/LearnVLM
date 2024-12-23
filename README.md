@@ -1,4 +1,6 @@
 # LearnVLM
+![alt text](image.png)
+
 # 大模型基础知识
 
 [基础知识](基础知识.md)
